@@ -1,0 +1,51 @@
+.awesome {
+    margin: auto;
+    width: 1170px;
+    font-family: Raleway;
+    background: #ffffff;
+}
+
+.awesome__heading {
+    height: 150px;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.awesome__separator {
+    width: 170px;
+    margin: auto;
+    border-bottom: 1px solid #EC7979;
+}
+
+.awesome__description {
+    margin-top: 40px;
+    text-align: center;
+    color: #86878B;
+}
+
+.awesome__wrapper {
+    margin-top: 110px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.awesome__container {
+    width: 30%;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+
+.awesome__title {
+    font-family: "Open Sans";
+    font-weight: 700;
+    font-size: 24px;
+    margin-top: 38px;
+    margin-bottom: 38px;
+}
+
+.awesome__text {
+    text-align: center;
+}
